@@ -1,5 +1,5 @@
 # Revenue_metrics
- Create a dashboard to analyze monetary inflows for the project
+ Create a dashboard to analyze monetary inflows for the project.
 This tool will allow product managers to track the dynamics of changes in monetary inflows and conduct a high-level analysis of the factors influencing these changes.
 
 The project consists of two parts:
