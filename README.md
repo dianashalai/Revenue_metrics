@@ -4,8 +4,8 @@ This tool will allow product managers to track the dynamics of changes in moneta
 
 The project consists of two parts:
 
-1. SQL Query in PostgreSQL
-2. Dashboard in Tableau Public
+1. SQL Query in PostgreSQL (in git)
+2. Dashboard in Tableau Publica: https://public.tableau.com/app/profile/diana.mariia.shalai/viz/Revenue_Metrics_17345363002250/Revenuemetrics#1
 The dashboard includes all the following **metrics**:
 
 - **Monthly Recurring Revenue (MRR)**: The total revenue for a calendar month, but only from sources that are recurring on a monthly basis.
