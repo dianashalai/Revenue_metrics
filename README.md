@@ -4,8 +4,8 @@ This tool will allow product managers to track the dynamics of changes in moneta
 
 The project consists of two parts:
 
-1. SQL Query in PostgreSQL (in git)
-2. Dashboard in Tableau Publica: https://public.tableau.com/app/profile/diana.mariia.shalai/viz/Revenue_Metrics_17345363002250/Revenuemetrics#1
+1. SQL Query in PostgreSQL (git)
+2. Dashboard in Tableau Public: https://public.tableau.com/app/profile/diana.mariia.shalai/viz/Revenue_Metrics_17345363002250/Revenuemetrics#1
 
 Interactive presentation: https://docs.google.com/presentation/d/1KR4bNIGZmg6OXeS-0y0ng7uOoRrXGke8yHGr0wdVf1s/edit?usp=sharing
 
