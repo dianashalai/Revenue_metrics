@@ -6,6 +6,9 @@ The project consists of two parts:
 
 1. SQL Query in PostgreSQL (in git)
 2. Dashboard in Tableau Publica: https://public.tableau.com/app/profile/diana.mariia.shalai/viz/Revenue_Metrics_17345363002250/Revenuemetrics#1
+
+Interactive presentation: https://docs.google.com/presentation/d/1KR4bNIGZmg6OXeS-0y0ng7uOoRrXGke8yHGr0wdVf1s/edit?usp=sharing
+
 The dashboard includes all the following **metrics**:
 
 - **Monthly Recurring Revenue (MRR)**: The total revenue for a calendar month, but only from sources that are recurring on a monthly basis.
